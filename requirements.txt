@@ -2,5 +2,5 @@ fastapi
 uvicorn[standard]
 motor
 passlib[bcrypt]
-open-webui
+git+https://github.com/openwebui/openwebui.git@main
 python-dotenv
